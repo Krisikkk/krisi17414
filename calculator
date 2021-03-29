@@ -1,0 +1,20 @@
+#include<studio.h>
+
+int main() {
+ int length, breadth, area, perimeter;
+ 
+ printf("\nEnter the Length of Rectangle:")'
+ scanf("%d", &length);
+ 
+ printf("\nEnter the Breadth of Rectangle:")'
+ scanf("%d", &breadth);
+ 
+ area = length * breadth;
+ 
+ perimeter=2(length+breadth);
+ 
+ printf("\nArea og Rectangle : %d", area);
+ printf('\nPerimater of Rectangle : %d", perimeter);
+ 
+ return (0);
+}
